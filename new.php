@@ -198,7 +198,6 @@ $result = $api->request($url, $request_fields);
               <a href="#"><i class="glyphicon glyphicon-triangle-left"></i></a>
               <a href="index.php" class="selected">Prev</a>
               <a href="more.php">2</a>
-              <a href="#">3</a>
               <a href="#"><i class="glyphicon glyphicon-triangle-right"></i></a>
             </div>
           </div>

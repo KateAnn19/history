@@ -242,10 +242,7 @@
             <div class="pagination">
               <a href="#"><i class="glyphicon glyphicon-triangle-left"></i></a>
               <a href="new.php" class="selected">Next</a>
-              <a href="#">3</a>
-              <a href="#">4</a>
-              <a href="#">5</a>
-              <a href="#">6</a>
+              <a href="more.php">3</a>
               <a href="#"><i class="glyphicon glyphicon-triangle-right"></i></a>
             </div>
           </div>
